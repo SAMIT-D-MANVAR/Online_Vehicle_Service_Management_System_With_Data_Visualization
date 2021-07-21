@@ -1,0 +1,118 @@
+<html lang="en">
+  <head>
+   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+<style>
+.btn {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+	.header 
+{
+ padding: 25px;
+background:url("projectphotos/net.png");
+background-size:cover;
+height:auto;
+width:100%;
+background-color:white;
+}
+
+.logo
+{
+	position:relative;
+    height:auto;
+	width:130px;
+	left:20px;
+}
+.head{
+     font-size: 35px;
+     color:#cc5200;
+}
+
+.nav 
+{
+        width: 100%;
+        background-color:green;
+        overflow: auto;
+}
+
+.nav a 
+{
+  float: left;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover 
+{
+  background-color:red;
+}
+</style>
+
+</head>
+<body>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	
+<div class="header">
+  <a href="#">
+        <img src="projectphotos/style.png" class="logo">
+  </a>
+  <h1 class="head"> AUTODOC</h1>               <!--company logo and heading-->
+</div>
+<div class="nav">
+<a href="adminwelcome.php">BACK</a>
+</div>	
+<div class="container-fluid">
+<center>
+<br>
+<br>
+<h2>ANALYSIS PORTAL</h2>
+</center>
+<center>
+<iframe src="piechart.php" name="iframe" height="600px" width="70%" title="Iframe Example"></iframe>
+</center><br><br>
+<center>
+<div class="row">
+<div class="col">
+<p><a class="btn" href="piechart.php" target="iframe">SERVICE PREFERENCE ANALYSIS</a></p>
+</div>
+<div class="col">
+<p><a class="btn" href="piechart2.php" target="iframe">CITY ANALYSIS</a></p>
+</div>
+<div class="col">
+<p><a class="btn" href="piechart3.php" target="iframe">VEHICLE TYPE</a></p>
+</div>
+
+
+</div>
+<br>
+<div class="row">
+<div class="col">
+<p><a class="btn" href="feedbackchart1.php" target="iframe">OVERALL ANALYSIS</a></p>
+</div>
+<div class="col">
+<p><a class="btn" href="feedbackchart2.php" target="iframe">SERVICE SATISFACTION</a></p>
+</div>
+<div class="col">
+<p><a class="btn" href="feedbackchart3.php" target="iframe">SERVICE HOURS</a></p>
+</div>
+</div>
+</center>
+</div>
+</body>
+</html>

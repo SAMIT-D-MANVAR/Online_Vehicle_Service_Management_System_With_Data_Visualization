@@ -1,22 +1,26 @@
-# webprogramming mini project
+# ONLINE VEHICLE SERVICE MANAGEMENT SYSTEM WITH DATA VISUALIZATION USING GOOGLE CHARTS
 
-INTRODUCTION
+Revolutionizing Vehicle Service Management: Bridging Time and Quality with Online Solutions
 
-Vehicle repair service is all about time and quality. As internet came into existence it has changed the world. In today’s world most of the things is being carried out online, from online payment to online booking. Online Vehicle Service Management System is a web application that provides online vehicle service booking to the people, allows the customer to provide feedback and check their service status.
-The objective of this study is to provide a platform where customers can view and book their car service online with help of a web application platform. This platform provides the customer to select particular vehicle service they wish for by filling a service application form and choosing the available time slot. The live time slot availability system provides the customer to check which slots are free instead of waiting to get a confirmation slot from the company via email. This platform not only provides customer to book service but also provides the customer to view their service status after applying for a service.
-"Customer service shouldn't just be a department; it should be the entire company." This platform also provides the customer to give their feedback so that the company can decide where the company needs to improve.
-Apart from customer, this web application provides functionality to the company as well. The admin who handles the customer’s online booking service gets to view the number of people applied for service at a particular day, gives overall view of customer service details and also provides them to update the customer service status. Also, it provides a platform where the company can get to make better decisions with help of graphical data like bar graphs, pie charts etc.
+In an era where the internet has reshaped our world, vehicle repair service must adapt to the digital age. The Online Vehicle Service Management System represents a paradigm shift, offering seamless online booking, customer feedback, service status tracking and empower customers with a user-friendly platform for booking car services online. 
 
-PROBLEM STATEMENT
-To build an online vehicle service management web application which provides convenient online service booking with improvised time slot selection to customers, provide feedback system and also allow the customers to check their service status, data visualization features so that the company can make better decisions.       
-OBJECTIVES
-	To create a responsive online vehicle service management web application system. 
-	To provide convenient live time slot availability while booking a car/bike service.
-	Provide the customers a convenient feedback section to express their views so that the company can decide how they can improve.
-	Allow customer to check the status of their vehicle service. 
-	Company can view the graphs at a glance and can make-decision very quickly which it is hardly possible through the descriptive report. The decisions may be like what kind of services people prefer etc.
-	Provide the admin to get a tabular view of customer and service details.
-	Provide the admin to update customer’s service status.        
+Through an intuitive web application, customers can effortlessly select desired services, complete service applications, and choose available time slots in real-time. Gone are the days of waiting for email confirmations; our live time slot availability system provides instant visibility into available slots.
+
+Beyond booking convenience, our platform prioritizes customer engagement. A dedicated feedback section empowers customers to voice their opinions, enabling continuous improvement and refinement.
+
+But it doesn't stop there. Our web application serves the company as well. Admin functionalities allow for efficient management of service bookings, providing insights into daily service demand and enabling prompt updates on service statuses. Furthermore, graphical data visualization tools equip decision-makers with actionable insights, facilitating informed decisions on service offerings and enhancements.
+
+Problem Statement:
+Develop an online vehicle service management web application that streamlines service booking, enhances time slot selection, facilitates feedback collection, and enables service status tracking for improved decision-making.
+
+Objectives:
+Create a responsive online vehicle service management system.
+Provide live time slot availability for convenient service booking.
+Implement a feedback section for customer engagement and improvement insights.
+Enable customers to check their service status seamlessly.
+Utilize graphical data visualization for informed decision-making.
+Provide admin functionalities for efficient service management and status updates
+    
 
 Snapshots
 
